@@ -7,7 +7,7 @@ function TopBanner() {
         <p className="uppercase flex-1 text-center">
           exclusive cartel collection <span>🇲🇽</span>
         </p>
-        <div className="flex items-center justify-between">
+        <div className="hidden md:flex items-center justify-between">
           <div className="flex items-center gap-3">
             {/*socials right here*/}
             <Instagram size={19} />
