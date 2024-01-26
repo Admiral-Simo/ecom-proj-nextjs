@@ -10,10 +10,10 @@ function TopBanner() {
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-3">
             {/*socials right here*/}
-            <Instagram />
-            <Youtube />
-            <Twitter />
-            <Facebook />
+            <Instagram size={19} />
+            <Youtube size={19} />
+            <Twitter size={19} />
+            <Facebook size={19} />
           </div>
           <div className="flex items-center gap-1 ml-10">
             <p className="text-2xl">🇲🇦</p>
